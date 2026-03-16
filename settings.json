@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "247 Engine",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
@@ -12,9 +12,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 100,
     "y": 100,
-    "z": 0
+    "z": 256
   },
   "utils": {
     "auto-auth": {
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "Reloading...",
-        "...",
-        "..."
+        "Hi",
+        "Hoooooo"
       ]
     },
     "chat-log": true,
