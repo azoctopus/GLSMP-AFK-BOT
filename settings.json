@@ -8,7 +8,7 @@
   "server": {
     "ip": "GLSMPNetwork.aternos.me",
     "port": 18283,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Reloading...",
+        "...",
+        "..."
       ]
     },
     "chat-log": true,
